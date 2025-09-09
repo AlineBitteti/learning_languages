@@ -12,8 +12,9 @@ Each folder represents a language (e.g., Python, C++), and inside each language 
 ## Languages
 
 - 🐍 Python  
-- 💻 C++  
-*(More may be added later)*
+- 💻 C++ (best language)  
+- JavaScript
+- SQL
 
 ## Topics Covered
 
