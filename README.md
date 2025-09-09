@@ -23,6 +23,7 @@ Each folder represents a language (e.g., Python, C++), and inside each language 
 - Functions (regular, recursive)  
 - Common algorithms (sorting, searching)  
 - Data structures (optional/future)
+- DFS and BFS(in c++)
 
 ---
 
